@@ -6,4 +6,4 @@ HOW TO RUN:
 2. Click "Download ZIP"
 3. Unzip the folder (for example to your desktop)
 4. Open the folder on an IDE (Visual Studio Code, IntelliJ IDEA)
-5. Run
+5. Run "Main.java"
